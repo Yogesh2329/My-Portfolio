@@ -5,3 +5,6 @@
 ![flow](https://github.com/Yogesh2329/My-Portfolio/assets/130210923/dc0e56fe-e6b9-4ec4-b516-8c0b0ff8e06b)
 ![tic](https://github.com/Yogesh2329/My-Portfolio/assets/130210923/7577d61b-8239-4eb5-ab37-17595a902a00)
 ![calcu](https://github.com/Yogesh2329/My-Portfolio/assets/130210923/6250011b-f591-4ebf-abbb-6c22b907b285)
+![html](https://github.com/Yogesh2329/My-Portfolio/assets/130210923/c0c85040-07e4-4612-93cb-b855f74595f1)
+![py](https://github.com/Yogesh2329/My-Portfolio/assets/130210923/7c057be7-f536-43e1-ac94-489067bad2f9)
+![css](https://github.com/Yogesh2329/My-Portfolio/assets/130210923/d8ab1fdd-41e3-4ae2-a460-2b3d60cf31ec)
